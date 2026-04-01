@@ -1,6 +1,7 @@
 # DataSelf — Personal Intelligence System
 
 A personal data-driven intelligence platform that helps you reflect, learn, and plan your next move.
+It was inspired by the woes of mental health and taking structured and positive steps towards healing, recover and mental rewiring
 
 ## Core Modules
 - ETL – capture and store daily reflections
